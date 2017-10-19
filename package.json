@@ -13,7 +13,10 @@
   "author": "Eric John Lavoie",
   "license": "ISC",
   "dependencies": {
+    "graceful-fs": "^4.1.1",
+    "gulp": "^3.9.1",
     "jquery": "^3.0.0",
+    "minimatch": "^3.0.2",
     "popper.js": "^1.11.0",
     "tether": "^1.3.3"
   }
